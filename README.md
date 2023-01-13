@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,gradle,php,laravel,mysql,go,git,github&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,gradle,dart,php,laravel,mysql,git,github&theme=dark&perline=5)](https://skillicons.dev)
 <br>
 
 <h3 align="left">My Stats:</h3>

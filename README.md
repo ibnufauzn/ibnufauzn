@@ -17,5 +17,6 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,gradle,php,laravel,mysql,git,github&theme=dark&perline=5)](https://skillicons.dev)
 <br>
 
-<h3 align="left">My Stats:</h3>
+<h3 align="left">Stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnufauzn&show_icons=true&locale=en&theme=dark" alt="Ibnu Fauzan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibnufauzn&theme=dark" alt="Ibnu Fauzan" /></p>

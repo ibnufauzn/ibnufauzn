@@ -1,6 +1,6 @@
 <!-- title -->
 <h1 align="center">Hello Folks!👋, I am Ibnu Fauzan </h1>
-<h3 align="center">Passionate Mobile developer and Backend Web Developer From Indonesia</h3>
+<h3 align="center">A Passionate Mobile developer and Backend Web Developer From Indonesia</h3>
 
 <!-- body -->
 <br>

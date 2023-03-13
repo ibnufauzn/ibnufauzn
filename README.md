@@ -6,7 +6,7 @@
 <br>
 <img align="right" alt ="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 <h3 align="left">Overview:</h3>
-- 💻 I am currently working remotely from home <br>
+- 💻 I am currently working at Politeknik Elektronika Negeri Surabaya <br>
 - 🌱 Ask me about Android and Web <br>
 - 📫 How to reach me ibnufauzan.personal@gmail.com  
 

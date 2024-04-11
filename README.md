@@ -1,6 +1,6 @@
 <!-- title -->
 <h1 align="center">Hello Folks!👋, I am Ibnu Fauzan </h1>
-<h3 align="center">A Passionate Mobile developer and Full Stack Web Developer From Indonesia</h3>
+<h3 align="center">A Passionate Mobile developer and Web Developer From Indonesia</h3>
 
 <!-- body -->
 <br>
@@ -16,6 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,gradle,flutter,dart,laravel,js,mysql,github,figma,css,html&theme=dark&perline=5)](https://skillicons.dev)
 <br>
 
-<h3 align="left">Stats:</h3>
+<!--  <h3 align="left">Stats:</h3>  -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnufauzn&show_icons=true&locale=en&theme=dark" alt="Ibnu Fauzan" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibnufauzn&theme=dark" alt="Ibnu Fauzan" /></p> -->

@@ -1,12 +1,12 @@
 <!-- title -->
 <h1 align="center">Hello Folks!👋, I am Ibnu Fauzan </h1>
-<h3 align="center">A Passionate Mobile developer and Web Developer From Indonesia</h3>
+<h3 align="center">A Passionate Web Developer From Indonesia</h3>
 
 <!-- body -->
 <br>
 <img align="right" alt ="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 <h3 align="left">Overview:</h3>
-- 💻 I am currently active as a Flutter Developer and JS Developer <br>
+- 💻 I am currently active as a Laravel Developer and JS Developer <br>
 - 📫 How to reach me ibnufauzan.personal@gmail.com  
 
 <br>

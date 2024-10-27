@@ -7,7 +7,7 @@
 <img align="right" alt ="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 <h3 align="left">Overview:</h3>
 - 💻 I am currently active as a freelance developer <br>
-- 📫 How to reach me `ibnufauzan.personal@gmail.com`
+- 📫 How to reach me: <code>ibnufauzan.personal@gmail.com</code>
 
 <br>
 

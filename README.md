@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,laravel,js,java,mysql,github,figma&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,laravel,php,js,java,mysql,github,figma&theme=dark&perline=5)](https://skillicons.dev)
 <br>
 
 <!--  <h3 align="left">Stats:</h3>  -->

@@ -1,6 +1,6 @@
 <!-- title -->
 <h1 align="center">Hello Folks!👋, I am Ibnu Fauzan </h1>
-<h3 align="center">A Passionate Web Developer From Indonesia</h3>
+<h3 align="center">A Passionate Software Developer From Indonesia</h3>
 
 <!-- body -->
 <br>
@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,gradle,flutter,dart,laravel,js,mysql,github,figma,css,html&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,laravel,js,java,mysql,oracle,github,figma&theme=dark&perline=5)](https://skillicons.dev)
 <br>
 
 <!--  <h3 align="left">Stats:</h3>  -->
